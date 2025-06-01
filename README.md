@@ -50,10 +50,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alfiiinur/alfiiinur/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alfiiinur/alfiiinur/output/pacman-contribution-graph.svg">
-  <img alt="gi" src="https://raw.githubusercontent.com/alfiiinur/alfiiinur/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/alfiiinur/alfiiinur/output/snake.svg" alt="Snake animation" />
 
 ###
